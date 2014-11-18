@@ -16,7 +16,7 @@ ngMessage	enter and leave
 
 Reference: 
 https://docs.angularjs.org/api/ngAnimate
-https://github.com/daneden/animate.css
+
 
 Step 1
 _______________
@@ -39,6 +39,17 @@ ______________
 Then load the module in your application by adding it as a dependent module:
 
   angular.module('app', ['ngAnimate']);
+
+
+
+ANIMATE.CSS
+_________________________________________
+
+Reference: https://github.com/daneden/animate.css 
+
+animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects. 
+
+Simply inject the animate.css into your file and you can reference any animation in your html.
 
 
 
